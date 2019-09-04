@@ -1,4 +1,1 @@
 # climseminar
-
-Documentations:
-
