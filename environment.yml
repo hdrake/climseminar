@@ -1,0 +1,9 @@
+name: climseminar
+channels:
+  - conda-forge
+dependencies:
+  - climlab
+  - netcdf4
+  - matplotlib
+  - cartopy
+  - jupyterlab
